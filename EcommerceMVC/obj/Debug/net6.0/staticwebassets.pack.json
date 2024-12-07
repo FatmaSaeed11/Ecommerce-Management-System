@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EcommerceMVC.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\apple_watch_series_8.jpg",
+      "PackagePath": "staticwebassets\\Products\\apple_watch_series_8.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\dell_xps_13.jpg",
+      "PackagePath": "staticwebassets\\Products\\dell_xps_13.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\galaxy_s24.jpg",
+      "PackagePath": "staticwebassets\\Products\\galaxy_s24.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\galaxy_tab_s9.jpg",
+      "PackagePath": "staticwebassets\\Products\\galaxy_tab_s9.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\galaxy_watch_5.jpg",
+      "PackagePath": "staticwebassets\\Products\\galaxy_watch_5.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\hp_envy_x360.jpg",
+      "PackagePath": "staticwebassets\\Products\\hp_envy_x360.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\hp_pavilion_aero_13.jpg",
+      "PackagePath": "staticwebassets\\Products\\hp_pavilion_aero_13.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\hp_spectre_x360.jpg",
+      "PackagePath": "staticwebassets\\Products\\hp_spectre_x360.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\huawei_mate_50_pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\huawei_mate_50_pro.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\huawei_nova_10_pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\huawei_nova_10_pro.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\huawei_p60_pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\huawei_p60_pro.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\iphone15.jpg",
+      "PackagePath": "staticwebassets\\Products\\iphone15.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\lenovo_thinkpad_x1_carbon.jpg",
+      "PackagePath": "staticwebassets\\Products\\lenovo_thinkpad_x1_carbon.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\lenovo_yoga_7i.jpg",
+      "PackagePath": "staticwebassets\\Products\\lenovo_yoga_7i.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\lg_oled_evo_gallery_series.jpg",
+      "PackagePath": "staticwebassets\\Products\\lg_oled_evo_gallery_series.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\lg_oled_tv.jpg",
+      "PackagePath": "staticwebassets\\Products\\lg_oled_tv.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\macbook_pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\macbook_pro.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\oppo_a78.jpg",
+      "PackagePath": "staticwebassets\\Products\\oppo_a78.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\oppo_find_x6_pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\oppo_find_x6_pro.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\oppo_reno_8_pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\oppo_reno_8_pro.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\poco_f5_pro.jpg",
+      "PackagePath": "staticwebassets\\Products\\poco_f5_pro.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme12.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme12.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme_11_pro_plus.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_11_pro_plus.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme_6.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_6.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme_7i.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_7i.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme_9i.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_9i.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme_c21y.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_c21y.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme_c55.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_c55.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realme_gt_neo_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\realme_gt_neo_3.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\realmec55.jpg",
+      "PackagePath": "staticwebassets\\Products\\realmec55.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Products\\sony_bravia_tv.jpg",
+      "PackagePath": "staticwebassets\\Products\\sony_bravia_tv.jpg"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\fatma\\faculty\\c#\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EcommerceMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EcommerceMVC.props",
+      "PackagePath": "build\\EcommerceMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceMVC.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EcommerceMVC.props",
+      "PackagePath": "buildTransitive\\EcommerceMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
